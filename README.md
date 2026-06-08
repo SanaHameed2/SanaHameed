@@ -41,7 +41,7 @@ Complete student management system with CRUD operations, attendance tracking, gr
 
 **Mathlings — Kids Learning**  
 Interactive learning platform with math games, animated stories, and video content.  
-[GitHub](https://github.com/SanaHameed2/mathlings) | [Live Demo](https://sana-hameed2.github.io/mathlings)
+[GitHub](https://github.com/SanaHameed2/mathlings) | [Live Demo](https://mathlings.netlify.app/)
 
 **Responsive Website (Hackathon Project)** — Built with HTML, CSS, and media queries.  
 [View on GitHub](https://github.com/SanaHameed2/Responsive-Website-Hackathon)
